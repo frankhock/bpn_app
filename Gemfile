@@ -8,7 +8,7 @@ gem 'rails', '3.2.2'
 gem 'pg'
 
 
-group :development do
+group :production do
  gem 'thin'
 end
 
